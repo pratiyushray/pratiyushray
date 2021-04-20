@@ -29,11 +29,6 @@
 
 
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pratiyushray&hide=issues&count_private=true&show_icons=true&theme=dark" width="350""></a>
-</p>
-
-
 
 <b><h1>Skills🥇</h1></b>
 <p>
