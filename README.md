@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align='center'>
-  Cyber Security Analyst | Ethical Hacker | Android Developer | Competitive Programmer
+  MERN Stack Developer | Frontend | Backend | Cyber Security | Competitive Programmer
 </h4>
 
 <p align='center'>
@@ -24,7 +24,7 @@
   
 </p>
 <p align='center'>
-  I am <b>Pratiyush Kumar Ray</b>, a Cyber Security Analyst with specialization in Vulnerability Assessment & Penetration Testing. Also a Passionate Android Developer & Competitive Coder.I'm pursuing B.Tech in Electronics & Communication Engineering from UIET, Kurukshetra University,Kurukshetra.I am Tech Lead in Cyber Security at Developer Student Club(DSC), UIET KUK.
+  I am <b>Pratiyush Kumar Ray</b>, a MERN Stack developer and passionate about designing and deploying web application. Worked on React Js, Angular Js frameworks.
 </p>
 
 
@@ -33,27 +33,20 @@
 <b><h1>Skills🥇</h1></b>
 <p>
 <b>Languages</b><br>
-> C/C++,Java,Kotlin,Python.<br>
+> Python, JavaScript, Shell Scripting<br>
 <b>OS</b><br>
 > Linux,Ubuntu,BackTrack, Windows.<br>
 <b>Networking</b><br>
 > TCP/IP Configuration,IP4/IPV6 Configuration,OSI Models,Network Architecture.<br>
 <b>Cyber Security</b><br>
 > Android Security,Network Security,Website Security, Application Security.<br>
-<b>Android Development</b><br>
-> Front End with XML, Backend Management with Firebase- Real time database,Authentication.<br>
-<b>Tools</b><br>
-> Burpsuite,Aircrack-ng,N-map,Wireshark,DHCPig,Beef,Backdoor Factory.<br>
+
 <b>Other</b><br>
 >Data structures and Algorithms,Firebase,OWASP 10, DVWA.<br></p>
 
 <b><h1>Currently Learning🎯</h1></b>
 <p>
-👉 Cloud Security. <br>
-
-👉 IOT & ML Security.<br>
-
-👉 Hardware Security.<br>
+👉 Web3 Blockchain <br>
 
 👉 React Native.<br>
 </p>
