@@ -42,7 +42,7 @@
 > Android Security,Network Security,Website Security, Application Security.<br>
 
 <b>Other</b><br>
->Data structures and Algorithms,Firebase,OWASP 10, DVWA.<br></p>
+>Data structures and Algorithms,Firebase, OWASP 10, DVWA.<br></p>
 
 <b><h1>Currently Learning🎯</h1></b>
 <p>
