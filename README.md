@@ -1,114 +1,111 @@
-# 👋 Hi, I'm Pratiyush Kumar Ray
+<!-- Profile Header -->
+<h1 align="center">👋 Hey, I'm <b>Pratiyush Kumar Ray</b></h1>
 
-💻 **Full Stack Engineer | MERN | Next.js | Node.js | PostgreSQL | GraphQL**
+<h3 align="center">
+🚀 Full Stack Engineer | MERN | Next.js | GraphQL | PostgreSQL
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratiyush%20Kumar%20Ray-blue?logo=linkedin)](https://linkedin.com/in/pratiyushray)
-[![GitHub](https://img.shields.io/badge/GitHub-pratiyushray-black?logo=github)](https://github.com/pratiyushray)
-[![LeetCode](https://img.shields.io/badge/LeetCode-pratiyushray2152-orange?logo=leetcode)](https://leetcode.com/pratiyushray2152)
-[![Email](https://img.shields.io/badge/Email-pkray0021%40gmail.com-red?logo=gmail)](mailto:pkray0021@gmail.com)
-
----
-
-## 🚀 About Me
-
-I'm a **Full Stack Engineer** with **3 years of experience** building scalable web applications using **MERN Stack, Next.js, Node.js, Express, GraphQL, and PostgreSQL**.  
-I’m passionate about architecting end-to-end solutions, optimizing backend performance, and delivering beautiful, responsive UIs with clean architecture and strong DevOps pipelines.
+<p align="center">
+  <a href="mailto:pkray0021@gmail.com"><img src="https://img.shields.io/badge/Email-pkray0021%40gmail.com-red?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/pratiyushray"><img src="https://img.shields.io/badge/LinkedIn-Pratiyush%20Kumar%20Ray-blue?logo=linkedin"></a>
+  <a href="https://github.com/pratiyushray"><img src="https://img.shields.io/badge/GitHub-pratiyushray-black?logo=github"></a>
+  <a href="https://leetcode.com/pratiyushray2152"><img src="https://img.shields.io/badge/LeetCode-pratiyushray2152-orange?logo=leetcode"></a>
+</p>
 
 ---
 
-## 🏢 Professional Experience
+### 🧠 About Me
 
-### 💼 Coding Blocks — *Product Engineer & Instructor*  
-**Jan 2025 – Present | New Delhi, India**
-
-#### 🧩 Nexus HRMS Solution  
-Enterprise-grade **HR Management System** built with **Next.js, Express.js, Node.js, TypeScript, Redis, GraphQL, Prisma, PostgreSQL, TailwindCSS, and ShadcnUI**  
-- ⚙️ Designed and implemented scalable GraphQL API using **Apollo Server**  
-- 🚀 Optimized backend performance by **35%** with Redis caching and Prisma-level query tuning  
-- 🧱 Built microservice-style modules for authentication, employee, and performance tracking  
-- 📱 Integrated responsive UI with **ShadcnUI** and **TailwindCSS**  
-- 🔄 Setup **CI/CD pipelines** for automated testing and deployment  
-
-#### 📘 Refactoring Coding Blocks Platform  
-- Developed **frontend in ReactJS** with component-level optimization  
-- Built **ExpressJS + PostgreSQL** backend APIs for structured content delivery  
-- Focused on **SEO optimization**, caching, and UX improvements  
+💻 Passionate **Full Stack Engineer** crafting scalable, performant web applications with **modern frameworks and clean architecture**.  
+⚡ I love building **real-world systems**, optimizing APIs, and creating **pixel-perfect UI experiences**.  
+🌱 Currently exploring **Microservices**, **Kafka**, and **Cloud-native DevOps**.  
+🧩 I believe in **Code. Learn. Teach. Repeat.**
 
 ---
 
-### 💼 Wipro Technologies — *Project Engineer (NGA)*  
-**Mar 2023 – Jan 2025 | Greater Noida, India**
+### 🛠️ Tech Stack & Tools
 
-- 🧠 Implemented developer portal templates using **Backstage.io** for automated CI/CD service creation  
-- 📊 Built **Kibana Dashboard Plugin** using React and TypeScript for airline architecture visualization  
-- 🔐 Designed **REST APIs and JWT authentication** modules with Node.js and Express  
-- 📈 Developed **Angular-based dashboards** for Whirlpool Digital Mobility Platform  
+#### 💻 Languages & Frameworks
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,react,nextjs,angular,graphql,prisma" />
+</p>
 
-### 💼 Onesnack by Nutriinuts — *Freelance Software Engineer*  
-**Aug 2024 – Dec 2025 | Faridabad, India**
+#### 🗄️ Databases & Cloud
 
-- 🛍️ Built a full-fledged **e-commerce platform** using **MERN Stack**, Redux, and OAuth 2.0  
-- 💳 Integrated **payment gateway**, **cart persistence**, and **Google Analytics**  
-- ⚙️ Architected secure backend APIs with CI/CD pipelines using GitHub Actions and Render  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,firebase,aws,gcp" />
+</p>
 
----
+#### ⚙️ DevOps, Tools & Others
 
-## 🧠 Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,kafka,bash,postman" />
+</p>
 
-**Languages:** JavaScript, TypeScript, Python, MySQL, Bash  
-**Frontend:** ReactJS, Next.js, Angular, TailwindCSS, ShadcnUI  
-**Backend:** Node.js, Express.js, Flask, GraphQL, Prisma, gRPC, Kafka  
-**Databases:** MongoDB, PostgreSQL, Redis  
-**DevOps / Tools:** GitHub Actions, AWS, GCP, Firebase, Kibana Dashboard  
-**Soft Skills:** Leadership, Communication, Mentoring, Time Management  
+#### 🎨 UI & Styling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,figma" />
+</p>
 
 ---
 
-## 🎓 Education
+### 🌟 Projects & Contributions
 
-**B.Tech in Electronics & Communication Engineering**  
-UIET, Kurukshetra University (2018–2022) — *CGPA: 7.26*
+📦 **[Nexus HRMS Solution](#)** — Enterprise-grade HRMS built with **Next.js, GraphQL, Prisma, Redis, and PostgreSQL**  
+🛍️ **[Onesnack by Nutriinuts](#)** — Full-fledged e-commerce platform using **MERN Stack, Redux, OAuth2, and CI/CD**  
+🧩 **[Refactoring Patterns Hub](#)** — Platform for learning design patterns and refactoring principles  
+🔧 **[Developer Portal Automation](#)** — Custom **Backstage.io** templates for automated CI/CD service onboarding
 
----
-
-## 📜 Certifications
-
-- 🎯 **MEAN Fullstack Development** — Simplilearn  
+*(More repositories below ↓)*
 
 ---
 
-## 🏆 Achievements
+### 🧩 Problem Solving & Competitive Coding
 
-- 🥉 **3rd Position** — Online Innovation Hackathon 2020  
-- 💡 Solved **600+ coding problems** on *LeetCode*, *GFG*, and *CodeStudio*  
-
----
-
-## 💬 Volunteer Experience
-
-**Tech Lead — Cyber Security, Google Developer Student Club (2020–2021)**  
-Conducted workshops on Ethical Hacking, Networking, and Penetration Testing.
-
----
-
-## 📈 Current Focus
-
-- 🔍 Learning: **System Design & Advanced GraphQL**
-- ⚙️ Exploring: **Microservices Architecture, Kafka, and Cloud DevOps**
-- 🌱 Building: Real-world scalable web systems with clean architecture
+<p align="center">
+  <a href="https://leetcode.com/pratiyushray2152/">
+    <img src="https://img.shields.io/badge/LeetCode-600%2B%20problems%20solved-orange?logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/pratiyushray">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active%20Contributor-brightgreen?logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect!
+### 🧭 My Journey So Far
 
-💌 **Email:** [pkray0021@gmail.com](mailto:pkray0021@gmail.com)  
-🌐 **Portfolio:** *(Coming Soon — under development!)*  
-💼 **LinkedIn:** [linkedin.com/in/pratiyushray](https://linkedin.com/in/pratiyushray)
+- 🎓 **B.Tech (ECE)** — UIET, Kurukshetra University (2018–2022)
+- 💼 Worked with **Coding Blocks** & **Wipro Technologies**
+- 🧑‍🏫 Mentored students and engineers on MERN stack development
+- 🏆 3rd Place — *Online Innovation Hackathon 2020*
+- 🔥 Open source enthusiast and backend architecture lover
 
 ---
 
-⭐ *"Code. Learn. Teach. Repeat."*  
-— *Pratiyush Kumar Ray*
+### 📊 GitHub Stats
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratiyushray&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiyushray&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratiyushray&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="mailto:pkray0021@gmail.com"><img src="https://img.shields.io/badge/Gmail-pkray0021%40gmail.com-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/pratiyushray"><img src="https://img.shields.io/badge/LinkedIn-Pratiyush%20Kumar%20Ray-blue?logo=linkedin"></a>
+  <a href="https://github.com/pratiyushray"><img src="https://img.shields.io/badge/GitHub-pratiyushray-black?logo=github"></a>
+</p>
+
+---
+
+<h3 align="center">⭐ “Code. Learn. Teach. Repeat.” — Pratiyush Kumar Ray</h3>
